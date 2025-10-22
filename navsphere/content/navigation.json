@@ -632,6 +632,15 @@
       "enabled": true
     },
     {
+      "id": "1761101145879",
+      "title": "论坛",
+      "icon": "FolderKanban",
+      "description": "论坛交流",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
@@ -809,15 +818,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761101145879",
-      "title": "论坛",
-      "icon": "FolderKanban",
-      "description": "论坛交流",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
