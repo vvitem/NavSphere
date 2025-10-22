@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761101145879",
+      "title": "论坛",
+      "icon": "FolderKanban",
+      "description": "论坛交流",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
